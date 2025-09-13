@@ -1,0 +1,52 @@
+{
+    "files.autoSave": "onWindowChange",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/node_modules": true,
+        "**/.expo": true
+    },
+    "files.autoSaveDelay": 10000,
+    "files.saveConflictResolution": "askUser",
+    
+    "javascript.format.enable": true,
+    "javascript.autoClosingTags": true,
+    "javascript.format.indentSwitchCase": true,
+    "javascript.format.insertSpaceBeforeFunctionParenthesis": false,
+    
+    "tailwindCSS.classAttributes": [
+        "class",
+        "className",
+        "ngClass",
+        "class:list"
+    ],
+    "tailwindCSS.hovers": true,
+    "tailwindcss-intellisense.trace.server": "off",
+    "tailwindCSS.suggestions": true,
+
+    "js/ts.implicitProjectConfig.module": "System",
+    "js/ts.implicitProjectConfig.checkJs": false,
+    
+    "json.format.enable": true,
+    "[json]": {
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    },
+
+    "editor.allowVariableFonts": true,
+    "editor.autoIndent": "full",
+    "editor.codeLens": false,
+    "editor.autoIndentOnPasteWithinString": true,
+    "editor.copyWithSyntaxHighlighting": true,
+    "editor.dragAndDrop": true,
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.autoIndentOnPaste": true,
+    "editor.trimAutoWhitespace": true
+}

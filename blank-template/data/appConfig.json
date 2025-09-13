@@ -1,0 +1,15 @@
+{
+    "userId": "test_user",
+    "appId": "",
+    "productId": "",
+    "restrictions": {
+      "allowDownloads": true,
+      "requireLogin": false
+    },
+    "locked": false,
+    "production": {
+        "stage": "devlopment",
+        "version" : "1.0.1"
+    }
+  }
+  
