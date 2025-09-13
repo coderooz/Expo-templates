@@ -1,0 +1,22 @@
+{
+  "name": "expo-template",
+  "version": "1.0.0",
+  "description": "This is a custom template for creating expo applicaiton with certain predefined designs and items present and configured for easier production.",
+  "author": {
+    "name": "Ranit Saha (CODEROOZ)",
+    "url": "https://github.com/coderooz",
+    "email": "coderooz.dev@gamil.com"
+  },
+  "keywords": [
+    "expo",
+    "template",
+    "javascript",
+    "tailwindcss",
+    "typescript",
+    "react"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coderooz/Expo-templates"
+  }
+}
